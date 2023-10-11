@@ -1,0 +1,17 @@
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.csproj.AssemblyReference.cache
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.AssemblyInfoInputs.cache
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.AssemblyInfo.cs
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.csproj.CoreCompileInputs.cache
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\PracticeProject.exe
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\PracticeProject.deps.json
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\PracticeProject.runtimeconfig.json
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\PracticeProject.dll
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\PracticeProject.pdb
+D:\CodeStudy\PracticeProject\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.csproj.CopyComplete
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.dll
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\refint\PracticeProject.dll
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.pdb
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\PracticeProject.genruntimeconfig.cache
+D:\CodeStudy\PracticeProject\obj\Debug\net7.0\ref\PracticeProject.dll
